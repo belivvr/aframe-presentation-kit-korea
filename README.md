@@ -1,50 +1,50 @@
 # aframe-presentation-kit
 
-Official starter slides for giving talks and presentations about A-Frame.
+A-Frame에 대한 강연 및 프리젠테이션을 위한 공식 시작 슬라이드.
 
-[VIEW SLIDES](https://aframe.io/aframe-presentation-kit/#/)
+[슬라이드 보기.](https://aframe.io/aframe-presentation-kit/#/)
 
-## Installation
+## 설치
 
 1. [Download the repository (.ZIP)](http://github.com/aframevr/aframe-presentation-kit/zipball/master) (>200MB)
-2. Start the local server (`npm run start`)
-3. Open `http://localhost:8080` in your browser
+2. node.js npm 명령어 사용. (`npm run start`)
+3. 브라우저에서 호스트 사용. [ http://localhost:8080 ] 
 
-## Table of Contents
+## 목차
 
-- Introduction
-- Virtual Reality
-  - Hardware
-  - Friction of VR Ecosystems
+- 소개
+- 가상현실
+  - 하드웨어
+  - 가상현실 생태계
 - WebVR
-  - Advantages
+  - 장점
   - API
-  - Browsers
-  - Metaverse
-  - Barrier to Entry
+  - 브라우저
+  - 메타버스
+  - 진입 장벽
 - A-Frame
-  - Introduction
+  - 소개
   - Hello World
-  - Demo
+  - 실시간 구현
   - Works With Everything
-- Entity-Component-System
-  - Concept
-  - Composing an Entity
-  - Registry
-  - Inspector
-- Community
-  - Examples
-  - Numbers
+- 자주 사용되는 시스템
+  - 개념
+  - 도면요소 구성
+  - 레지스트리
+  - 검사기
+- 커뮤니티
+  - 예시
+  - 숫자
 
-## Modifying Design
+## 수정중인 디자인
 
-The kit uses [reveal.js](https://github.com/hakimel/reveal.js/), an HTML
-presentation framework. If you wish to customize, read their documentation to
-see how to configure and style the slide deck.
+이 키트는 [reveal.js](https://github.com/hakimel/reveal.js/) HTML 프레젠테이션 프레임워크 입니다. 
+사용자 정의를 하려면, [documentation](https://aframe.io/docs/1.2.0/components/position.html#sidebar)
+을 읽어 보면서 슬라이드 데크를 수정을 하세요.
 
-For styling, the kit theme is based on the white theme found in the reveal.js
-repository. This has been copied to `src/main.css` which you can replace or
-modify.
+스타일링은, 키트의 테마가 들어있는 자바스크립트 저장소는 흰색 테마 배경을 바탕으로 합니다. 
+복사된 `src/main.css` 이 파일은 사용자가 수정하여 교체할수 있다.
+--크롱--
 
 ## Modifying Content
 
@@ -91,5 +91,3 @@ Open up a scene in the A-Frame Inspector by pressing `<ctrl> + <alt> + i` on
 your keyboard. This will open up an embedded A-Frame scene in a visual tool.
 
 Check out this [public speaking guide](http://speaking.io/) and good luck!
-
-.
