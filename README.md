@@ -2,7 +2,7 @@
 
 A-Frame 에 대한 강연 및 프리젠테이션을 위한 공식 시작 슬라이드.
 
-[슬라이드 보기.](http://127.0.0.1:5500/index.html#/)
+[슬라이드 보기.](https://aframe.io/aframe-presentation-kit/#/)
 
 ## 설치
 

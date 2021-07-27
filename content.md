@@ -4,7 +4,7 @@
   <h1>에이프레임</h1>
   <p>가상현실 환경을 구축하기 위한 웹 프레임워크</p>
   <p class="talk-info">
-    @belivvr | Mozilla VR | **aframe.io**
+    @belivvr | Mozilla VR | **afrmae.io-kr**
   </p>
 </div>
 
