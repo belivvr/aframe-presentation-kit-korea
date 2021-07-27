@@ -1,10 +1,10 @@
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">
-  <h1>가나다</h1>
-  <p>A web framework for building VR experiences</p>
+  <h1>에이프레임</h1>
+  <p>가상현실 환경을 구축하기 위한 웹 프레임워크</p>
   <p class="talk-info">
-    @andgokevin | Mozilla VR | **aframe.io**
+    @belivvr | Mozilla VR | **aframe.io**
   </p>
 </div>
 
