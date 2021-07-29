@@ -1,6 +1,6 @@
 # a-frame 프레젠테이션-키트
 
-a-frame 프레젠테이션 저장소는 원본이 따로 있으며, [Slide show.](https://aframe.io/aframe-presentation-kit/#/) 이걸 토대로   
+a-frame 프레젠테이션 저장소는 원본이 따로 있으며, [Slide show.](https://github.com/aframevr/aframe-presentation-kit) 이걸 토대로   
 번역을 했습니다.    <br><br><br>  
 
 

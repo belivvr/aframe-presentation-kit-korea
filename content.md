@@ -1,20 +1,11 @@
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">
-<<<<<<< HEAD
-  <h1>A-frame</h1>
-  <p>VR 환경을 구축하기 위한 웹 프레임워크</p>
-=======
-<<<<<<< HEAD
   <h1>A-Frame</h1>
-  <p>A web framework for building VR experiences</p>
-=======
-  <h1>에이-프레임</h1>
-  <p>가상현실 환경을 구축하기 위한 웹 프레임워크</p>
->>>>>>> dc22edecde36eede070fa9a2b7eaa9da62018c40
->>>>>>> 39b9e81585f81abdc025bf37298cbe75c5069fe8
+  <p>VR 환경을 만들기 위한 웹 프레임워크</p>
+
   <p class="talk-info">
-    @andgokevin | Mozilla VR | **aframe.io**
+    @belivvr | Mozilla VR | **aframe.io**
   </p>
 </div>
 
@@ -24,7 +15,7 @@
 
 ------
 
-# 가상 현실
+# VR
 
 <!-- .slide: data-background-video="media/video/virtualreality.mp4" data-background-video-loop="true" data-background-video-muted="true" data-state="state--bg-dark" -->
 
