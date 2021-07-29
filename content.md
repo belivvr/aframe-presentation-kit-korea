@@ -1,10 +1,10 @@
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">
-  <h1>에이프레임</h1>
-  <p>가상현실 환경을 구축하기 위한 웹 프레임워크</p>
+  <h1>A-Frame</h1>
+  <p>A web framework for building VR experiences</p>
   <p class="talk-info">
-    @belivvr | Mozilla VR | **afrmae.io-kr**
+    @andgokevin | Mozilla VR | **aframe.io**
   </p>
 </div>
 
@@ -459,12 +459,12 @@ Curated collection of A-Frame components.
 <video loop data-src="media/video/leaphands.mp4" data-autoplay></video>
 
 ---
-
-## Inspector
+ 
+## Inspector 
 
 <!-- .slide: data-background="media/img/inspector.png" data-state="state--bg-dark" -->
 
-Visual tool for A-Frame. Just `<ctrl>+<alt>+i`.
+A-frame 용 시각적 도구입니다. `<ctrl>+<alt>+i`을 누르세요.
 
 <div class="stretch" data-aframe-scene="scenes/80s.html"></div>
 
@@ -472,7 +472,7 @@ Visual tool for A-Frame. Just `<ctrl>+<alt>+i`.
 
 <!-- .slide: data-background="media/img/header.png" -->
 
-# Community
+# 커뮤니티
 
 https://aframe.io/blog/
 
@@ -480,7 +480,7 @@ https://aframe.io/blog/
 
 <!-- .slide: data-background="media/img/apainter.gif" -->
 
-# Art - *A-Painter*
+# 미술 - *A-artist*
 
 @mozillavr
 
@@ -488,23 +488,23 @@ https://aframe.io/blog/
 
 <!-- .slide: data-background="media/img/syria.gif" -->
 
-# Journalism - *Fear of the Sky*
+# 저널리즘 - *하늘의 공포*
 
-Amnesty International UK
+국제 사면 위원회
 
 ---
 
 <!-- .slide: data-background="media/img/mars.jpg" -->
 
-# Journalism - *Journey to Mars*
+# 저널리즘 - *화성 여행*
 
-The Washington Post
+워싱턴 포스트
 
 ---
 
 <!-- .slide: data-background="media/img/citybuilder.gif" -->
 
-# Sandbox - *City Builder*
+# 샌드박스 - *도시 건설업자*
 
 @kfarr
 
@@ -512,7 +512,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/adit.gif" -->
 
-# Data Visualization - *Adit*
+# 데이터 시각화 - *편집*
 
 @datatitian
 
@@ -520,7 +520,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/a-blast.gif" -->
 
-# Gaming - *A-Blast*
+# 게임하기 - *A-Blast*
 
 @mozillavr
 
@@ -528,7 +528,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/ux.gif" -->
 
-# Prototyping - *UI Widgets*
+# 프로토타입 - *UI widget*
 
 @whoyee
 
@@ -536,7 +536,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/math.gif" -->
 
-# Mathematics - *MathworldVR*
+# 수학 - *수학세계VR*
 
 @sleighdogs
 
@@ -544,7 +544,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/ar.gif" -->
 
-# AR - *AR.js + A-Frame*
+# AR - *AR.js + A-frame*
 
 @jerome_etienne
 
@@ -552,7 +552,7 @@ The Washington Post
 
 <!-- .slide: data-background="media/img/webvrstudio.png" -->
 
-# Tools - *WebVR Studio*
+# 도구 - *WebVR 스튜디오*
 
 @webvrstudio
 
@@ -560,7 +560,7 @@ The Washington Post
 
 <!-- .slide: data-background-video="media/video/livetour.mp4" data-background-video-loop="true" -->
 
-# Real Estate - *Live Tour*
+# 부동산 - *라이브 투어*
 
 iStaging
 
@@ -568,7 +568,7 @@ iStaging
 
 <!-- .slide: data-background="media/img/cadavr.gif" -->
 
-# Education - *CadaVR*
+# 교육 - *CadaVR*
 
 @drryanjames
 
@@ -579,20 +579,20 @@ iStaging
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/github.png">
-    <i>180+ contributors 6000+ Stargazers</i>
+    <i>기부자 180명 이상 6000개 이상의 별</i>
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>4000+ members on Slack</i>
+    <i>슬랙에 4000명<br> 이상의 회원</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
-    <i>100s of featured projects</i>
+    <i>100여개의 주요<br> 프로젝트</i>
   </div>
 </div>
 
 <!-- NOTES -->
-- Open source and inclusive project
-- Most work done on GitHub
-- Active community on Slack to share projects, interact, hang out, seek help
-- Featured projects on the `awesome-aframe` repository and *A Week of A-Frame* blog
+- 오픈 소스 그리고 종합적인 프로젝트
+- Github에 대한 대부분의 작업
+- 프로젝트를 공유하고, 교류하고, 어울리고, 도움을 구하는 슬랙의 활발한 커뮤니티
+- *일주일의 A-Frame* 블로그 및 '굉장한-프레임' 저장소의 주된 프로젝트
