@@ -1,9 +1,14 @@
-# 에이프레임 프리젠테이션-키트
+# a-frame 프레젠테이션-키트
 
-에이-프레임에 대한 강연 및 프리젠테이션을 위한 공식 시작 슬라이드.
+a-frame 프레젠테이션 저장소는 원본이 따로 있으며, [Slide show.](https://aframe.io/aframe-presentation-kit/#/) 이걸 토대로   
+번역을 했습니다.    <br><br><br>  
 
-[슬라이드 보기.](http://127.0.0.1:5500/index.html#/)
 
+a-frame에 대한 강연 및 프레젠테이션 위한 공식 시작 슬라이드.
+
+[슬라이드 보기.](http://127.0.0.1:5500/index.html#/)    
+<br><br><br><br><br>
+   
 ## 설치
 
 1. [저장소 다운로드 하기. (.ZIP)](http://github.com/aframevr/aframe-presentation-kit/zipball/master) (>200MB)
@@ -13,9 +18,9 @@
 ## 목차
 
 - 소개
-- 가상현실
+- VR
   - 하드웨어  
-  - 가상현실 생태계
+  - VR 생태계
 - WebVR
   - 장점
   - API
@@ -39,12 +44,11 @@
 ## 수정중인 디자인
 
 이 키트는 [reveal.js](https://github.com/hakimel/reveal.js/) HTML 프레젠테이션 프레임워크 입니다. 
-사용자 정의를 하려면, [문서화](https://aframe.io/docs/1.2.0/components/position.html#sidebar)
-을 읽어 보면서 슬라이드 데크를 수정을 하세요.
+제작을 하려면, [문서화](https://aframe.io/docs/1.2.0/components/position.html#sidebar)
+를 읽어 보면서 슬라이드 데크를 수정을 해 보세요.
 
 스타일링은, 키트의 테마가 들어있는 자바스크립트 저장소는 흰색 테마 배경을 바탕으로 합니다. 
 복사된 `src/main.css` 이 파일은 사용자가 수정하여 교체할수 있다.
---크롱--
 
 ## 내용 수정
 
@@ -90,4 +94,3 @@ data-aframe-scene="scenes/yourscene.html"></div>` 및 A-frame 장면에 들어�
 엽니다. 이렇게 하면 시각적 도구에 포함된 A-frame 장면이 열릴 것 입니다.
 
 이것 좀 보세요 [public speaking guide](http://speaking.io/) 그리고 행운을 빌어요!
---루피--

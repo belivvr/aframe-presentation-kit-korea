@@ -1,8 +1,8 @@
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
 <div class="talk-title">
-  <h1>에이-프레임</h1>
-  <p>가상현실 환경을 구축하기 위한 웹 프레임워크</p>
+  <h1>A-frame</h1>
+  <p>VR 환경을 구축하기 위한 웹 프레임워크</p>
   <p class="talk-info">
     @belivvr | Mozilla VR | **afrmae.io-kr**
   </p>
@@ -45,7 +45,7 @@
 
 ---
 
-## 가상현실의 생태계
+## VR의 생태계
 
 <div class="captioned-image-row">
   <div>
@@ -54,7 +54,7 @@
   </div>
   <div>
     <img data-src="media/img/downloads-installs.png">
-    <i>다운</i>
+    <i>설치</i>
   </div>
   <div>
     <img data-src="media/img/closed-door.png">
@@ -64,15 +64,15 @@
 
 <!-- NOTES -->
 - 앱스토어 및 기업들이 배포를 하며 제어합니다 : 콘텐츠를 게시 중단하거나 차단할 수 있습니다.
-- 다운로드 / 설치하는데의 소비는 용량 : 작은 비지니스 페이지.
+- 다운로드 / 설치하는데의 소비되는 용량 : 작은 비지니스 페이지.
 - 생태계 폐쇠 : 소유권을 가진 유저, 가파른 학습 곡선, 고립된 경험, 분열 등이 있습니다.
 - 우리는 VR이 성공하길 바라기 때문에 이러한 마찰이 없는 플랫폼을 원합니다. 정답은 WebVR입니다...
 
 ------
 
-# 웹 가상현실
+# 웹 VR
 
-개방형 가상 현실 플랫폼의 ** 웹의 ** 장점
+개방형 VR 플랫폼의 ** 웹의 ** 장점
 
 <div class="captioned-image-row">
   <div>
@@ -92,7 +92,7 @@
 <!-- NOTES -->
 웹VR은 브라우저의 가상 현실로 인터넷을 기반으로 합니다.
 
-열다:
+개방적:
 - 공개적으로 누구나 만들수있습니다.
 - 개방형 오픈소스 문화.
 
@@ -192,14 +192,14 @@ https://webvr.rocks
 
 ---
 
-웹가상현실을 만들기가 너무 어렵습니다...
+웹VR은 만들기가 너무 어렵습니다...
 
 ---
 
 <!-- .slide: data-background-video="media/video/boilerplate.mp4" data-state="state--bg-dark" -->
 
 <div class="slide__boilerplate">
-  <p>웹가상현실에서 폴리필을 가져오세요.</p>
+  <p>웹VR에서 폴리필을 가져오기</p>
   <p>카메라 설정</p>
   <p>조명 설정</p>
   <p>씬 초기화</p>
@@ -221,7 +221,7 @@ https://webvr.rocks
 
 ------
 
-# 에이-프레임
+# A-frame
 
 <!-- .slide: data-background="media/img/aframe-rendered-full.png" -->
 
@@ -292,28 +292,29 @@ https://webvr.rocks
 
 ## 안녕! 메타버스
 
-<i>by belivvr (@belivvr)</i>
+<i>by Ada Rose Edwards (@lady_ada_king)</i>
 
 <!-- .slide: data-background="media/img/metaverse.jpg" -->
 
 <div class="stretch" data-aframe-scene="scenes/80s.html"></div>
 
 <!-- NOTES -->
-- HTML 안에서 실행되는 빌리버의 에이-프레임
+- HTML 안에서 실행되는 빌리버의 A-frame
 - 데스크탑, 안드로이드, 아이오에스, 삼성 기어VR, 오큘러스 Rift, HTC Vive에서 일을 할수 있다.
 - 돔 인스펙터를 열어 값을 실시간으로 변경할 수 있습니다.
 
 ---
 
-# 개체(entity)-요소-시스템
+# Entity-Component-System
+<!-- # 개체(entity)-요소-시스템  -->
 
 <!-- .slide: data-background="media/img/minecraft-blocks.png" -->
 
 <!-- NOTES -->
 - 객체-요소에 대한 프레임워크
 - 인기있는 게임개발, 유니티를 사용합니다.
-- 씬(Scene)의 모든 개체는 기본적으로 빈 개체인 **entity**입니다.
-  모양을 첨부할 **구성요소** | 행동 | 기능성
+- 씬(Scene)의 모든 개체는 기본적으로 빈 **entity**입니다.
+  모양을 첨부할 **구성요소** | 행동모션 | 기능성
 - 2D 웹은 모든 요소가 고정되어있다.
 - 3D/VR은 다르다, 무한적인 유형 및 복잡성을 가진 객체에는 다양한 종류의 객체를 쉽게 구축할 방법이 필요합니다.
 
@@ -417,8 +418,8 @@ https://webvr.rocks
 <!-- .slide: data-background="media/img/standard-components.png" data-background-size="contain" -->
 
 <!-- NOTES -->
-- 에이-프레임과 함께 제공되는 일부 구성 요소입니다
-- 에이-프레임은 확장이 가능하며, 핵심이 됩니다.
+- A-frame과 함께 제공되는 일부 구성 요소입니다
+- A-frame은 확장이 가능하며, 핵심이 됩니다.
 
 ---
 
@@ -427,7 +428,7 @@ https://webvr.rocks
 <!-- NOTES -->
 - 커뮤니티는 수많은 구성요소로 생태계를 가득 채웠습니다.
 - 구성요소는 원하는 모든 작업을 수행할 수 있으며, three.js 및 웹 API에 대한 전체 액세스 권한을 갖습니다.
-- 에이-프레임의 생명줄인 구성요소 생태계입니다.
+- A-frame의 생명줄인 구성요소 생태계입니다.
 - 물리학, 립모션, 입자 시스템, 오디오 시각화, 해양 등 있습니다.
 - 구성 요소를 스크립트 태그로 삭제하고 HTML에서 직접 사용합니다.
 - 고급 개발자가 다른 개발자에게 권한을 부여합니다.
@@ -446,7 +447,7 @@ https://webvr.rocks
 </a>
 
 <!-- NOTES -->
-- 에이-프레임 레지스트리 수집을 합니다.
+- A-frame 레지스트리 수집을 합니다.
 - 잘 작동하도록 하는 부품 저장소처럼.
 - 사용자는 구성요소를 찾아 검색하거나 설치할 수 있습니다.
 
