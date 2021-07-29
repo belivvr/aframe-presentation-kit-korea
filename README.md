@@ -1,11 +1,7 @@
 # a-frame 프레젠테이션-키트
 
-<<<<<<< HEAD
 a-frame 프레젠테이션 저장소는 원본이 따로 있으며, [Slide show.](https://aframe.io/aframe-presentation-kit/#/) 이걸 토대로   
 번역을 했습니다.    <br><br><br>  
-=======
-A-Frame 에 대한 강연 및 프리젠테이션을 위한 공식 시작 슬라이드.
->>>>>>> 39b9e81585f81abdc025bf37298cbe75c5069fe8
 
 
 a-frame에 대한 강연 및 프레젠테이션 위한 공식 시작 슬라이드.
@@ -22,15 +18,9 @@ a-frame에 대한 강연 및 프레젠테이션 위한 공식 시작 슬라이�
 ## 목차
 
 - 소개
-<<<<<<< HEAD
 - VR
   - 하드웨어  
   - VR 생태계
-=======
-- 가상현실
-  - 하드웨어
-  - 가상현실 생태계
->>>>>>> 39b9e81585f81abdc025bf37298cbe75c5069fe8
 - WebVR
   - 장점
   - API
@@ -103,8 +93,4 @@ data-aframe-scene="scenes/yourscene.html"></div>` 및 A-frame 장면에 들어�
 사용자의 키보드의 `<ctrl> + <alt> + i`를 눌러 A-frame 관리자의 한 장면을 
 엽니다. 이렇게 하면 시각적 도구에 포함된 A-frame 장면이 열릴 것입니다.
 
-<<<<<<< HEAD
 이것 좀 보세요 [public speaking guide](http://speaking.io/) 그리고 행운을 빌어요!
-=======
-이거 보세요. 도움이 되실 거에요! [public speaking guide](http://speaking.io/) 그리고 행운을 빌어요!
->>>>>>> 39b9e81585f81abdc025bf37298cbe75c5069fe8
