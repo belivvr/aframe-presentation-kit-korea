@@ -51,7 +51,8 @@ body {
   letter-spacing: normal;
   text-transform: uppercase;
   text-shadow: none;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  font-family: '돋움'; }
 
 .reveal h1 {
   font-size: 3.77em; }

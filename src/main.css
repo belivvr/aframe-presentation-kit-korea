@@ -55,8 +55,9 @@ html:-moz-full-screen-ancestor {
   line-height: 1.2;
   letter-spacing: normal;
   text-shadow: none;
+  font-family: '돋움';
   word-wrap: break-word; 
-  font-family: "돋움";}
+}
 
 .reveal h1 {
   font-size: 1.9em; }
@@ -145,7 +146,9 @@ html:-moz-full-screen-ancestor {
   display: inline-block; }
 
 .reveal q {
-  font-style: italic; }
+  /* font-style: italic;  */
+  font-family: "돋움";
+}
 
 .reveal pre {
   display: block;
