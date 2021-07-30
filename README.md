@@ -62,7 +62,7 @@ a-frame에 대한 강연 및 프레젠테이션 위한 공식 시작 슬라이�
 합니다. (할당된 대화 길이도 포함) 예시.
 
 - **사용자들은 VR에 익숙합니까?** - 그렇다면, VR 부분을 건너뛰거나 잘라 낼 수 있습니다.
-- **사용자들이 기본코드 (즉, 자바스크립트, A-frame 구성요소, three.js)에 관심이 있습니까?** - 그렇지 않으면 도면요소-구성요소-부분을 자릅니다.
+- **사용자들이 기본코드 (즉, 자바스크립트, A-frame 구성요소, three.js)에 관심이 있습니까?** - 그렇지 않으면 Entity-Component-Partial을 자릅니다.
 
 ### A-frame 장면 추가
 
@@ -78,7 +78,7 @@ data-aframe-scene="scenes/yourscene.html"></div>` 및 A-frame 장면에 들어�
 지정한 위치에서 라이브 됩니다. [GitHub 페이지에 대해 자세히
 알아보기](https://github.com/blog/2228-simpler-github-pages-publishing).
 
-## 제공하다
+## 제공
 
 네트워크 성능을 향상시키려면 슬라이드를 컴퓨터에서 로컬로 제공하십시오.
 
@@ -93,4 +93,4 @@ data-aframe-scene="scenes/yourscene.html"></div>` 및 A-frame 장면에 들어�
 사용자의 키보드의 `<ctrl> + <alt> + i`를 눌러 A-frame 관리자의 한 장면을 
 엽니다. 이렇게 하면 시각적 도구에 포함된 A-frame 장면이 열릴 것입니다.
 
-이것 좀 보세요 [public speaking guide](http://speaking.io/) 그리고 행운을 빌어요!
+이거 보세요! 도움이 될 거에요! [public speaking guide](http://speaking.io/) 그리고 행운을 빕니다!
